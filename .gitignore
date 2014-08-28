@@ -3,6 +3,3 @@ target/
 *.settings
 *.project
 .idea/
-test/
-**/.idea/
-camel-test/test/
